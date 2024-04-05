@@ -17,6 +17,7 @@ function App() {
       <BrowserRouter>
         <div className="relative z-0 bg-primary">
           <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
+            commit2
             <Navbar />
             <Hero />
           </div>
@@ -27,7 +28,6 @@ function App() {
           <Feedbacks />
           <div className="relative z-0">
             <Contact />
-            commit 3
             <StarsCanvas />
           </div>
         </div>
